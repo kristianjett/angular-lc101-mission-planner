@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EquipmentComponent implements OnInit {
 
-  equipment: array[] = [
+  equipment: Array[] = [
     "Habitat dome",
     "Drones",
     "Food containers",
